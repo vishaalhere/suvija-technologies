@@ -1,0 +1,39 @@
+{
+  "title": "Our Team",
+  "description": "Meet the talented people behind Suvija Technologies.",
+  "metaDescription": "Get to know the expert team at Suvija Technologies.",
+  "team": [
+    {
+      "id": 1,
+      "name": "Alex Thompson",
+      "role": "Founder & CEO",
+      "bio": "Visionary leader with 15+ years of experience in digital transformation.",
+      "image": "/placeholder.svg?height=300&width=300",
+      "expertise": ["Strategy", "Leadership", "Digital Transformation"]
+    },
+    {
+      "id": 2,
+      "name": "Jessica Lee",
+      "role": "Lead Designer",
+      "bio": "Award-winning designer passionate about creating beautiful user experiences.",
+      "image": "/placeholder.svg?height=300&width=300",
+      "expertise": ["UI/UX Design", "Branding", "Design Systems"]
+    },
+    {
+      "id": 3,
+      "name": "Marcus Williams",
+      "role": "Senior Developer",
+      "bio": "Full-stack developer specializing in scalable web applications.",
+      "image": "/placeholder.svg?height=300&width=300",
+      "expertise": ["Full-Stack Development", "Cloud Architecture", "DevOps"]
+    },
+    {
+      "id": 4,
+      "name": "Priya Patel",
+      "role": "SEO Specialist",
+      "bio": "Data-driven SEO expert helping businesses dominate search rankings.",
+      "image": "/placeholder.svg?height=300&width=300",
+      "expertise": ["SEO Strategy", "Analytics", "Content Marketing"]
+    }
+  ]
+}

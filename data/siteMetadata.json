@@ -1,0 +1,21 @@
+{
+  "siteName": "Suvija Technologies",
+  "siteUrl": "https://suvija-technologies.com",
+  "description": "Suvija Technologies specializes in building high-quality, custom, and SEO-optimized websites for startups, SMEs, and individual creators.",
+  "tagline": "Building Digital Experiences That Inspire.",
+  "author": "Suvija Technologies",
+  "email": "hello@suvija.com",
+  "phone": "+1 (555) 123-4567",
+  "address": "123 Tech Street, San Francisco, CA 94105",
+  "socialLinks": {
+    "twitter": "https://twitter.com/suvija",
+    "linkedin": "https://linkedin.com/company/suvija",
+    "github": "https://github.com/suvija",
+    "instagram": "https://instagram.com/suvija"
+  },
+  "colors": {
+    "primary": "#0F172A",
+    "accent": "#38BDF8",
+    "background": "#F8FAFC"
+  }
+}

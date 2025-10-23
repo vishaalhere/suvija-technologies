@@ -1,0 +1,91 @@
+{
+  "title": "Our Projects",
+  "description": "Showcase of our recent work and success stories.",
+  "metaDescription": "Explore our portfolio of successful web design and development projects.",
+  "projects": [
+    {
+      "id": "startup-hub",
+      "title": "StartupHub Platform",
+      "description": "A comprehensive platform connecting startups with investors and mentors.",
+      "category": "Web Development",
+      "image": "/placeholder.svg?height=400&width=600",
+      "technologies": ["Next.js", "React", "Tailwind CSS", "PostgreSQL"],
+      "link": "#",
+      "results": {
+        "users": "50K+",
+        "growth": "300%",
+        "satisfaction": "98%"
+      }
+    },
+    {
+      "id": "ecommerce-store",
+      "title": "Fashion E-Commerce Store",
+      "description": "Modern e-commerce platform for a sustainable fashion brand.",
+      "category": "E-Commerce",
+      "image": "/placeholder.svg?height=400&width=600",
+      "technologies": ["Next.js", "Stripe", "Tailwind CSS", "Supabase"],
+      "link": "#",
+      "results": {
+        "sales": "$500K+",
+        "conversion": "4.2%",
+        "satisfaction": "96%"
+      }
+    },
+    {
+      "id": "saas-dashboard",
+      "title": "SaaS Analytics Dashboard",
+      "description": "Real-time analytics dashboard for data-driven decision making.",
+      "category": "Web Development",
+      "image": "/placeholder.svg?height=400&width=600",
+      "technologies": ["React", "D3.js", "Node.js", "MongoDB"],
+      "link": "#",
+      "results": {
+        "performance": "99.9%",
+        "users": "10K+",
+        "satisfaction": "97%"
+      }
+    },
+    {
+      "id": "portfolio-site",
+      "title": "Creative Portfolio Website",
+      "description": "Stunning portfolio website for a digital artist and designer.",
+      "category": "Web Design",
+      "image": "/placeholder.svg?height=400&width=600",
+      "technologies": ["Next.js", "Tailwind CSS", "Framer Motion"],
+      "link": "#",
+      "results": {
+        "inquiries": "200+",
+        "engagement": "85%",
+        "satisfaction": "99%"
+      }
+    },
+    {
+      "id": "nonprofit-site",
+      "title": "Non-Profit Organization Website",
+      "description": "Impactful website for a global non-profit organization.",
+      "category": "Web Design",
+      "image": "/placeholder.svg?height=400&width=600",
+      "technologies": ["Next.js", "Tailwind CSS", "Contentful"],
+      "link": "#",
+      "results": {
+        "donations": "$100K+",
+        "volunteers": "500+",
+        "satisfaction": "95%"
+      }
+    },
+    {
+      "id": "mobile-app",
+      "title": "Mobile App Landing Page",
+      "description": "Conversion-optimized landing page for a mobile fitness app.",
+      "category": "Web Design",
+      "image": "/placeholder.svg?height=400&width=600",
+      "technologies": ["Next.js", "Tailwind CSS", "React"],
+      "link": "#",
+      "results": {
+        "downloads": "100K+",
+        "conversion": "8.5%",
+        "satisfaction": "94%"
+      }
+    }
+  ]
+}

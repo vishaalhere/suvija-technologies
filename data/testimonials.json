@@ -1,0 +1,36 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Sarah Johnson",
+      "role": "Founder, TechStartup Inc.",
+      "image": "/placeholder.svg?height=100&width=100",
+      "content": "Suvija Technologies transformed our vision into reality. Their team's expertise and dedication were instrumental in launching our platform successfully.",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "name": "Michael Chen",
+      "role": "CEO, Fashion Forward",
+      "image": "/placeholder.svg?height=100&width=100",
+      "content": "Working with Suvija was a game-changer for our e-commerce business. Our sales increased by 300% within the first quarter.",
+      "rating": 5
+    },
+    {
+      "id": 3,
+      "name": "Emily Rodriguez",
+      "role": "Director, Global Impact NGO",
+      "image": "/placeholder.svg?height=100&width=100",
+      "content": "The team at Suvija understood our mission and created a website that truly represents our values. Highly recommended!",
+      "rating": 5
+    },
+    {
+      "id": 4,
+      "name": "David Park",
+      "role": "Founder, Creative Studio",
+      "image": "/placeholder.svg?height=100&width=100",
+      "content": "Exceptional service from start to finish. Suvija's attention to detail and creative approach exceeded all our expectations.",
+      "rating": 5
+    }
+  ]
+}

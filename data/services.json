@@ -1,0 +1,49 @@
+{
+  "title": "Our Services",
+  "description": "Comprehensive digital solutions tailored to your business needs.",
+  "metaDescription": "Explore our range of web design, development, and digital marketing services.",
+  "services": [
+    {
+      "id": "web-design",
+      "title": "Web Design",
+      "description": "Beautiful, user-centric designs that captivate and convert.",
+      "icon": "🎨",
+      "features": ["Responsive Design", "UI/UX Optimization", "Brand Identity", "Wireframing & Prototyping"]
+    },
+    {
+      "id": "web-development",
+      "title": "Web Development",
+      "description": "Robust, scalable, and high-performance web applications.",
+      "icon": "💻",
+      "features": ["Full-Stack Development", "API Integration", "Database Design", "Performance Optimization"]
+    },
+    {
+      "id": "seo-optimization",
+      "title": "SEO Optimization",
+      "description": "Increase your online visibility and drive organic traffic.",
+      "icon": "🔍",
+      "features": ["On-Page SEO", "Technical SEO", "Content Strategy", "Analytics & Reporting"]
+    },
+    {
+      "id": "e-commerce",
+      "title": "E-Commerce Solutions",
+      "description": "Complete online store setup and management.",
+      "icon": "🛒",
+      "features": ["Store Setup", "Payment Integration", "Inventory Management", "Marketing Tools"]
+    },
+    {
+      "id": "maintenance",
+      "title": "Maintenance & Support",
+      "description": "Ongoing support to keep your website running smoothly.",
+      "icon": "🔧",
+      "features": ["Regular Updates", "Security Monitoring", "Performance Tuning", "24/7 Support"]
+    },
+    {
+      "id": "consulting",
+      "title": "Digital Consulting",
+      "description": "Strategic guidance for your digital transformation journey.",
+      "icon": "💡",
+      "features": ["Strategy Development", "Technology Audit", "Roadmap Planning", "Best Practices"]
+    }
+  ]
+}

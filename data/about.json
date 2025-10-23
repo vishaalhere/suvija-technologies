@@ -1,0 +1,35 @@
+{
+  "title": "About Suvija Technologies",
+  "description": "Learn about our mission, vision, and the team behind Suvija Technologies.",
+  "metaDescription": "Discover how Suvija Technologies is transforming digital experiences for startups and businesses worldwide.",
+  "hero": {
+    "title": "About Suvija Technologies",
+    "subtitle": "We're passionate about creating digital experiences that inspire and drive results."
+  },
+  "mission": {
+    "title": "Our Mission",
+    "description": "To empower startups, SMEs, and creators with world-class digital solutions that are beautiful, functional, and results-driven."
+  },
+  "vision": {
+    "title": "Our Vision",
+    "description": "To be the most trusted digital partner for businesses looking to establish and grow their online presence with cutting-edge technology and creative excellence."
+  },
+  "values": [
+    {
+      "title": "Innovation",
+      "description": "We stay ahead of the curve with the latest technologies and design trends."
+    },
+    {
+      "title": "Quality",
+      "description": "Every project is crafted with meticulous attention to detail and excellence."
+    },
+    {
+      "title": "Partnership",
+      "description": "We work closely with our clients to understand their vision and deliver results."
+    },
+    {
+      "title": "Integrity",
+      "description": "We believe in transparent communication and honest relationships with our clients."
+    }
+  ]
+}
